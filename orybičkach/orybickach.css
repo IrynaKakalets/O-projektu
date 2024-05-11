@@ -1,0 +1,33 @@
+body {
+  background-image: url("orybickach.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container-oryby {
+  margin: 0 auto;
+  box-sizing: border-box;
+  margin-top: 8%;
+  font-family: "Amatic SC", cursive;
+  font-size: 2.2rem;
+  text-align: center;
+  color: #f4f4f7;
+  text-shadow: 0 3px 10px #00080bb3;
+}
+
+.btn,
+.back {
+  text-decoration: none;
+  color: #c1d1f6;
+}
+
+.back {
+  font-family: "Amatic SC", cursive;
+  font-size: 2rem;
+}
+
+.btn:hover {
+  background-color: rgb(176, 212, 251);
+}

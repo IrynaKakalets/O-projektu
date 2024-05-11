@@ -12,3 +12,10 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
+
+.paticka {
+  background-color: #bdb9bc;
+  color: rgb(7, 7, 7);
+  text-align: center;
+  padding: 20px 0;
+}

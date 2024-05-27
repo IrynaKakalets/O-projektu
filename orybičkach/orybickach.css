@@ -30,4 +30,5 @@ body {
 
 .btn:hover {
   background-color: rgb(176, 212, 251);
+  border-radius: 10px;
 }
